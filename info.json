@@ -1,0 +1,14 @@
+{
+  "name": "exotic-industries-K2",
+  "version": "1.0.3",
+  "factorio_version": "1.1",
+  "title": "Exotic Industries - Krastorio 2 compatibility",
+  "author": "VELTAX",
+  "description": "Exotic Industries & Krastorio 2 Compatibility integrates the advanced technologies and intricate production chains of Exotic Industries with the expansive and immersive gameplay enhancements of Krastorio 2. ",
+   "dependencies": [
+   "base >= 1.1.0",
+   "Krastorio2",
+   "exotic-industries <= 0.5.9",
+   "!exotic-industries-se"
+   ]
+}
