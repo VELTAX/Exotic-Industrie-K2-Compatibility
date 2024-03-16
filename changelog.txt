@@ -3,7 +3,8 @@ Version: 1.0.4
 Date: 10.03.2024
   Changes: 
 - EI Lithium crystal recipe is now disabled
-- K2 Lithium now replace the EI Lithium Crystal 
+- K2 Lithium now replace the EI Lithium Crystal
+- Merged Hydrogen and ammonia 
 
   Bugs Fixes:
 - Steam pumpjack and deep pumpjack can no be placed on oil patch
